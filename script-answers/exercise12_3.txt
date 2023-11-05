@@ -1,0 +1,9 @@
+root@0224402a74db:/# script
+Script started, output log file is 'typescript'.
+# cd usr	
+# ls
+bin  games  include  lib  libexec  local  sbin	share  src
+# cd src/app
+# nano index.js          
+# exit
+Script done.
