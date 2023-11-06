@@ -218,3 +218,6 @@ Setting up nodejs (16.20.2-deb-1nodesource1) ...
 Hello World
 # 
 exit
+Script done.
+root@0224402a74db:/# exit
+exit
